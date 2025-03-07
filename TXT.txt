@@ -1,0 +1,10 @@
+
+Forensic kidda
+
+Points: 160
+
+"The trickster god, Loki, has been **whispering secrets through the void**, slipping messages past the watchful eyes of Asgard’s guardians. At first, it seemed like harmless chatter—just echoes in the vast expanse of the network. But the keenest of watchers sensed something… **off.** Somewhere within the web of transmissions lies a hidden truth, fragmented and scattered among seemingly innocent requests. Was it **encrypted? Obfuscated? Buried in plain sight?** Only those with the sharpest eyes and the cleverest minds can untangle Loki’s deception and expose his scheme. "
+
+    challenge_files/df_r2_network.pcapng
+
+
